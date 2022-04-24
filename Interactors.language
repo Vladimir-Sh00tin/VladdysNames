@@ -1,0 +1,322 @@
+{
+	strings:
+	{
+	//[INTERACTABLES],
+	"SURVIVOR_POD_HATCH_OPEN_CONTEXT": "GTFO",
+	"SURVIVOR_POD_OPEN_PANEL_CONTEXT" : "Grab This Bomb",
+	"TELEPORTER_NAME": "Portus",
+	"TELEPORTER_BEGIN_CONTEXT": "Activate Portus..?",
+	"TELEPORTER_END_CONTEXT": "Enter Portus",
+
+	"BARREL1_NAME": "Capsule",
+	"BARREL1_CONTEXT": "Open capsule",
+
+	"DUMMYINTERACTION_NAME": "???",
+	"DUMMYINTERACTION_CONTEXT": "???",
+	
+	"LOCKBOX_NAME": "Rusty Box",
+	"LOCKBOX_CONTEXT": "Open Rusty Box",
+
+	"LOCKBOXVOID_NAME": "Crusty Box",
+	"LOCKBOXVOID_CONTEXT": "Open Crusty Box",
+	
+	"EQUIPMENTBARREL_NAME": "Equipment Capsule",
+	"EQUIPMENTBARREL_CONTEXT": "Open equipment capsule",
+
+	//[CHESTS],
+	"OLDCHEST_NAME": "Old Chest",
+	"OLDCHEST_CONTEXT": "",
+
+	"CHEST1_NAME": "Chest",
+	"CHEST1_CONTEXT": "Open chest",
+
+	"CHEST1_STEALTHED_NAME": "Cloaked Chest",
+	"CHEST1_STEALTHED_CONTEXT": "Open cloaked chest",
+
+	"CHEST2_NAME": "Large Chest",
+	"CHEST2_CONTEXT": "Open large chest",
+
+	"GOLDCHEST_NAME": "Legendary Chest",
+	"GOLDCHEST_CONTEXT": "Open Legendary Chest",
+
+	"TIMEDCHEST_NAME": "Timed Security Chest",
+	"TIMEDCHEST_CONTEXT": "Open Timed Security Chest",
+
+	"RADIOTOWER_NAME" : "Radio Scanner",
+	"RADIOTOWER_CONTEXT" : "Download environment data",
+
+	"MULTISHOP_TERMINAL_NAME": "Multishop Terminal",
+	"MULTISHOP_TERMINAL_CONTEXT": "Open terminal",
+
+	"FAN_NAME": "Fan",
+	"FAN_CONTEXT": "Reactivate Fan",
+
+	"DUPLICATOR_NAME": "3D Printer",
+	"DUPLICATOR_CONTEXT": "Use 3D Printer",
+
+	"DUPLICATOR_MILITARY_NAME": "Mili-Tech Printer",
+	"DUPLICATOR_MILITARY_CONTEXT": "Use Mili-Tech Printer",
+	"DUPLICATOR_WILD_NAME": "Overgrown 3D Printer",
+	"DUPLICATOR_WILD_CONTEXT": "Use Overgrown 3D Printer",
+
+	"CASINOCHEST_NAME": "Adaptive Chest",
+	"CASINOCHEST_CONTEXT": "Open Adaptive Chest",
+
+	//[LUNAR STUFF],
+	"LUNAR_CHEST_NAME" : "Lunar Pod",
+	"LUNAR_CHEST_CONTEXT" : "Open Lunar Pod",
+
+	"LUNAR_TERMINAL_NAME" : "Lunar Bud",
+	"LUNAR_TERMINAL_CONTEXT" : "Open Lunar Bud",
+
+	"LUNAR_REROLL_NAME" : "Slab",
+	"LUNAR_REROLL_CONTEXT" : "Refresh Shop",
+
+	"BAZAAR_UPGRADE_LUNAR_NAME" : "Slab",
+	"BAZAAR_UPGRADE_LUNAR_CONTEXT" : "Permanently upgrade Item Shop",
+
+	"BAZAAR_BLUEPRINT_NAME" : "Strange Display",
+	"BAZAAR_BLUEPRINT_CONTEXT" : "Permanently Unlock",
+
+	"BAZAAR_UPGRADE_DRONE_NAME" : "Slab",
+	"BAZAAR_UPGRADE_DRONE_CONTEXT" : "Permanently upgrade Drone Shop",
+
+	"BAZAAR_CAULDRON_NAME" : "Cauldron",
+	"BAZAAR_CAULDRON_CONTEXT" : "Reforge",
+
+	"NEWT_STATUE_NAME" : "Newton Altar",
+	"NEWT_STATUE_CONTEXT" : "Donate to Fig Newton",
+
+	"MSOBELISK_NAME" : "Obelisk",
+	"MSOBELISK_CONTEXT" : "Seriously? Are you \u1D412\u1D414\u1D411\u1D404 you don't want to fight Skrillex?",
+	"MSOBELISK_CONTEXT_CONFIRMATION" : "...Alright. KYS, I guess...",
+
+	"CATEGORYCHEST_HEALING_NAME": "Chest - Healing",
+	"CATEGORYCHEST_HEALING_CONTEXT": "Open Chest - Healing",
+
+	"CATEGORYCHEST_DAMAGE_NAME": "Chest - Damage",
+	"CATEGORYCHEST_DAMAGE_CONTEXT": "Open Chest - Damage",
+
+	"CATEGORYCHEST_UTILITY_NAME": "Chest - Utility",
+	"CATEGORYCHEST_UTILITY_CONTEXT": "Open Chest - Utility",
+
+	//[SHRINES],
+	"SHRINE_HEALING_NAME": "Shrine of the Woods",
+	"SHRINE_HEALING_CONTEXT": "Offer to Shrine of the Woods",
+	"SHRINE_HEALING_USE_MESSAGE_2P": "<style=cShrine>You are embraced by the healing warmth of the Woods.</color>",
+	"SHRINE_HEALING_USE_MESSAGE": "<style=cShrine>{0} is embraced by the healing warmth of the Woods.</color>",
+	
+	"SHRINE_BLOOD_NAME": "Shrine of Blood",
+	"SHRINE_BLOOD_CONTEXT": "Offer to Shrine of Blood",
+	"SHRINE_BLOOD_USE_MESSAGE_2P": "<style=cShrine>You feel a searing pain. You have gained {1} gold.</color>",
+	"SHRINE_BLOOD_USE_MESSAGE": "<style=cShrine>{0} feels a searing pain, and has gained {1} gold.</color>",
+
+	"SHRINE_CHANCE_NAME": "Shrine of Chance",
+	"SHRINE_CHANCE_CONTEXT": "Offer to Shrine of Chance",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE_2P": "<style=cShrine>You offer to the shrine and are rewarded!</color>",
+	"SHRINE_CHANCE_SUCCESS_MESSAGE": "<style=cShrine>{0} offered to the shrine and was rewarded!</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE_2P": "<style=cShrine>You offer to the shrine, but gain nothing.</color>",
+	"SHRINE_CHANCE_FAIL_MESSAGE": "<style=cShrine>{0} offered to the shrine and gained nothing.</color>",
+
+	"SHRINE_BOSS_NAME": "Shrine of the Mountain",
+	"SHRINE_BOSS_CONTEXT": "Pray to Shrine of the Mountain",
+	"SHRINE_BOSS_USE_MESSAGE_2P": "<style=cShrine>You have invited the challenge of the Mountain..</color>",
+	"SHRINE_BOSS_USE_MESSAGE": "<style=cShrine>{0} has invited the challenge of the Mountain..</color>",
+	"SHRINE_BOSS_BEGIN_TRIAL": "<style=cShrine>Let the challenge of the Mountain... begin!</style>",
+	"SHRINE_BOSS_END_TRIAL": "<style=cShrine>Your bravery is rewarded!</style>",
+
+	"VOID_SUPPRESSOR_NAME": "Void Eradicator",
+	"VOID_SUPPRESSOR_CONTEXT": "Eradicate items",
+	"VOID_SUPPRESSOR_USE_MESSAGE_2P": "<style=cShrine>You eradicated {1} from the universe.",
+	"VOID_SUPPRESSOR_USE_MESSAGE": "<style=cShrine>{0} eradicated {1} from the universe.",
+	"VOID_SUPPRESSOR_FAKE_NAME": "Newt Altar?",
+	"VOID_SUPPRESSOR_FAKE_CONTEXT" : "Donate to Newt Altar?",
+
+	"SHRINE_RESTACK_NAME": "Shrine of Order",
+	"SHRINE_RESTACK_CONTEXT": "Offer to Shrine of Order",
+	"SHRINE_RESTACK_USE_MESSAGE_2P": "<style=cShrine>You have been... sequenced.</color>",
+	"SHRINE_RESTACK_USE_MESSAGE": "<style=cShrine>{0} is... sequenced.</color>",
+
+	"SHRINE_GOLDSHORES_NAME": "Altar of Gold",
+	"SHRINE_GOLDSHORES_CONTEXT": "Offer to Altar of Gold",
+
+	"SHRINE_COMBAT_NAME": "Shrine of Combat",
+	"SHRINE_COMBAT_CONTEXT": "Pray to Shrine of Combat",
+	"SHRINE_COMBAT_USE_MESSAGE_2P": "<style=cShrine>You have summoned {1}s to fight.</color>",
+	"SHRINE_COMBAT_USE_MESSAGE": "<style=cShrine>{0} has summoned {1}s to fight.</color>",
+
+	"SHRINE_PROTECTION_NAME": "Shrine of Warding",
+	"SHRINE_PROTECTION_CONTEXT": "Pray to Shrine of Warding",
+	"SHRINE_PROTECTION_USE_MESSAGE_2P": "<style=cShrine>You feel safe.</color>",
+	"SHRINE_PROTECTION_USE_MESSAGE": "<style=cShrine>{0} feels safe.</color>",
+
+	"SHRINE_CLEANSE_NAME": "Cleansing Pool",
+	"SHRINE_CLEANSE_CONTEXT": "Get rid of that Lunar garbage",
+	"SHRINE_CLEANSE_USE_MESSAGE_2P": "<style=cShrine>You have cleansed yourself of {1}.</color>",
+	"SHRINE_CLEANSE_USE_MESSAGE": "<style=cShrine>{0} has cleansed themself of {1}.</color>",
+
+	"GOLDTOTEM_NAME": "Halcyon Beacon",
+	"GOLDTOTEM_CONTEXT": "Rebuild Halcyon Beacon",
+
+	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>[WARNING] {1}s have been released from the Cell..!</style>",
+	"ARENA_ADD_ITEM" : "<style=cWorldEvent>[WARNING] {1} has been integrated into the Cell...!</style>",
+	"ARENA_END" : "<style=cWorldEvent>The Cell stabilizes.</style>",
+	"NULL_WARD_NAME" : "Cell Vent",
+	"NULL_WARD_CONTEXT" : "Open Cell Vent",
+	//MISC
+	"YOUNG_TELEPORTER_NAME": "Teleporter Sapling",
+	"YOUNG_TELEPORTER_CONTEXT": "Activate Teleporter Sapling",
+
+	"MOON_BATTERY_SOUL_NAME" : "Pillar of Soul",
+	"MOON_BATTERY_SOUL_CONTEXT" : "Activate Pillar",
+
+	"MOON_BATTERY_BLOOD_NAME" : "Pillar of Blood",
+	"MOON_BATTERY_BLOOD_CONTEXT" : "Activate Pillar",
+
+	"MOON_BATTERY_DESIGN_NAME" : "Pillar of Design",
+	"MOON_BATTERY_DESIGN_CONTEXT" : "Activate Pillar",
+
+	"MOON_BATTERY_MASS_NAME" : "Pillar of Mass",
+	"MOON_BATTERY_MASS_CONTEXT" : "Activate Pillar",
+
+	"VENDING_MACHINE_NAME" : "UESCola Vending Machine",
+	"VENDING_MACHINE_CONTEXT" : "Purchase Refreshing Beverage",
+
+	"LOCKEDMAGE_NAME" : "Survivor",
+	"LOCKEDMAGE_CONTEXT" : "Free the survivor",
+		
+	"LOCKEDTREEBOT_NAME" : "Broken Robot",
+	"LOCKEDTREEBOT_CONTEXT" : "Repair",
+
+	"SCAVBACKPACK_NAME" : "Scavenger's Sack",
+	"SCAVBACKPACK_CONTEXT" : "Open Scavenger's Sack",
+	//[DRONES],
+	"DRONE_GUNNER_INTERACTABLE_NAME": "Broken Shooty Drone",
+	"DRONE_GUNNER_CONTEXT": "Repair Shooty Drone",
+
+	"DRONE_MEGA_INTERACTABLE_NAME": "Broken Big Drone",
+	"DRONE_MEGA_CONTEXT": "Repair The Big Drone",
+
+	"DRONE_HEALING_INTERACTABLE_NAME": "Broken Healy Drone",
+	"DRONE_HEALING_CONTEXT": "Repair Healy Drone",
+
+	"DRONE_MISSILE_INTERACTABLE_NAME": "Broken Rocket-man Drone",
+	"DRONE_MISSILE_CONTEXT": "Repair Rocket-man Drone",
+
+	"EQUIPMENTDRONE_INTERACTABLE_NAME" : "Broken Mostly Useless Drone",
+	"EQUIPMENTDRONE_CONTEXT" : "Repair Mostly Useless Drone",
+
+	"FLAMEDRONE_INTERACTABLE_NAME" : "Broken Cleansing Flame Drone",
+	"FLAMEDRONE_CONTEXT" : "Repair Cleansing Flame Drone",
+
+	"EMERGENCYDRONE_INTERACTABLE_NAME" : "Broken Heal-Us-All Drone",
+	"EMERGENCYDRONE_CONTEXT" : "Repair Heal-Us-All Drone",
+
+	//[TURRETS],
+	"TURRET1_INTERACTABLE_NAME": "Broken Shooty Turret",
+	"TURRET1_CONTEXT": "Repair Shooty Turret",
+
+	"PORTAL_SHOP_NAME" : "Newton's Portus",
+	"PORTAL_SHOP_CONTEXT": "Enter Fig Newton's portus",
+	"PORTAL_GOLDSHORES_NAME" : "Gold Portus",
+	"PORTAL_GOLDSHORES_CONTEXT": "Enter this sus Golden portus",
+	"PORTAL_MYSTERYSPACE_NAME" : "Coward's Portus",
+	"PORTAL_MYSTERYSPACE_CONTEXT": "Enter/Exit the Stage of Cowardice",
+	"PORTAL_ARENA_NAME" : "Null Portus",
+	"PORTAL_ARENA_CONTEXT" : "Enter the 「L?ean Zo?ne」 portus",
+	"PORTAL_ARTIFACTWORLD_NAME" : "Artifact Portus",
+	"PORTAL_ARTIFACTWORLD_CONTEXT" : "Enter Artificial Portus",
+	"PORTAL_GENERIC_CONTEXT": "Enter Portus",
+	"ZIPLINE_ENTER_CONTEXT" : "Enter Quantum Yeet",
+	"ZIPLINE_EXIT_CONTEXT" : "Exit Quantum Yeet",
+
+	"PICKUP_LUNAR_COIN": "Blue Donut",
+	"LUNAR_COIN_PICKUP_CONTEXT": "Eat this Blue Donut",
+	
+	"COST_NONE_FORMAT": "",
+	"COST_MONEY_FORMAT": "${0}",
+	"COST_PERCENTHEALTH_FORMAT": "{0}% HP",
+	"COST_LUNARCOIN_FORMAT": " <sprite name=\"LunarCoin\" tint=1>{0}",
+	"COST_ITEM_FORMAT": "{0} Item(s)",
+	"COST_LUNAR_FORMAT": "{0} Donut",
+	"COST_EQUIPMENT_FORMAT": "{0} Equipment",
+	"COST_VOLATILEBATTERY_FORMAT": "{0} Fuel Array",
+	"COST_ARTIFACTSHELLKILLERITEM_FORMAT" : "{0} Artifact Key",
+	"COST_TREASURECACHEITEM_FORMAT": "{0} Rusty Key",
+	"COST_TREASURECACHEVOIDITEM_FORMAT": "{0} Crusty Key",
+	"FIREBALL_VEHICLE_EXIT_CONTEXT" : "Detonate",
+
+	"ARTIFACT_TRIAL_CONTROLLER_NAME" : "Unknown Artifact",
+	"ARTIFACT_TRIAL_CONTROLLER_CONTEXT" : "Activate Unknown Artifact...?",
+
+	"PORTAL_DIALER_NAME" : "Compound Generator",
+	"PORTAL_DIALER_CONTEXT" : "Cycle Compound",
+
+	"PORTAL_DIALER_LAPTOP_NAME" : "Gaming Laptop",
+	"PORTAL_DIALER_LAPTOP_CONTEXT" : "Send Low-poly Nudes",
+
+	"LUNAR_TELEPORTER_NAME": "The Final? Portus",
+	"LUNAR_TELEPORTER_SHIFT" : "Go Somewhere Else Instead",
+	"LUNAR_TELEPORTER_BEGIN_CONTEXT": "Activate Final(?) Portus..?",
+	"LUNAR_TELEPORTER_END_CONTEXT": "Enter Final(?) Portus",
+
+	"SCRAPPER_NAME" : "Scrapper",
+	"SCRAPPER_CONTEXT" : "Scrap Items",
+	"SCRAPPER_POPUP_TEXT" : "<b>Scrapper V1-4</b>\n<i><style=cSub><size=75%>Turn anything into recyclable scrap!</size></style></i>",
+
+	"DROPSHIP_NAME" : "UES Dropship",
+	"DROPSHIP_CONTEXT" : "GET ME OUT OF HERE!!!",
+
+	"MOON_ELEVATOR_NAME" : "Platform",
+	"MOON_ELEVATOR_CONTEXT" : "Activate platform",
+
+	"VOIDLOCKBOX_NAME": "Crusty Cache",
+	"VOIDLOCKBOX_CONTEXT": "Open Crusty Cache",
+
+	"VOID_CHEST_NAME" : "「L?ean」 Cradle",
+	"VOID_CHEST_CONTEXT" : "Open 「L?ean」 Cradle",
+
+	"VOID_TRIPLE_NAME" : "「L?ean」 Potential",
+	"VOID_TRIPLE_CONTEXT" : "Release that 「L?ean」 Potential",
+
+	"OPTION_PICKUP_INTERACTION_PROMPT" : "Collapse 「L?ean」 Potential",
+	"OPTION_PICKUP_UNKNOWN_NAME" : "「L?ean」 Potential",
+	"OPTION_PICKUP_HEADER" : "Collapsing Potential 「L?ean」 Vectors...",
+
+	"PICKUP_VOID_COIN": "「L?ean」 Marker",
+	"VOID_COIN_PICKUP_CONTEXT": "Pick up 「L?ean」 Marker",
+	"COST_VOIDCOIN_FORMAT":" <sprite name=\"「L?ean」\" tint=1>{0}",
+
+	"PORTAL_VOID_NAME" : "「L?ean」 Portus",
+	"PORTAL_VOID_CONTEXT": "Enter the 「Actu?al L?ean Zo?ne」",
+
+	"VOIDCOINBARREL_NAME": "Stalk",
+	"VOIDCOINBARREL_CONTEXT": "Crack this sucker open!",
+
+	"FROG_NAME": "Frog",
+	"FROG_CONTEXT": "Squish the frog",
+
+	"DEEPVOIDBATTERY_NAME" : "Deep 「L?ean」 Signal",
+	"DEEPVOIDBATTERY_CONTEXT" : "Activate Deep 「L?ean」 Signal",
+
+	"PORTAL_DEEPVOID_NAME" : "Deep 「L?ean」 Portus",
+	"PORTAL_DEEPVOID_CONTEXT": "Enter the 「Actu?al-Ac?tual L?ean Zo?ne」",
+
+	"PORTAL_VOIDOUTRO_NAME" : "Portus?",
+	"PORTAL_VOIDOUTRO_CONTEXT": "...Just leave...",
+
+	"VOIDCAMPCENTER_NAME" : "「L?ean」 Seed",
+	"VOIDCAMPCENTER_CONTEXT": "Get rid of all this 「L?ean」",
+
+	"VOID_SURVIVOR_POD_HATCH_OPEN_CONTEXT":"Arise... and stand forth",
+
+	"CATEGORYCHEST2_HEALING_NAME": "Large Chest - Healy",
+	"CATEGORYCHEST2_HEALING_CONTEXT": "REGENERATION!",
+
+	"CATEGORYCHEST2_DAMAGE_NAME": "Large Chest - Damage",
+	"CATEGORYCHEST2_DAMAGE_CONTEXT": "Now THAT's a lot of damage...",
+
+	"CATEGORYCHEST2_UTILITY_NAME": "Large Chest - Utility",
+	"CATEGORYCHEST2_UTILITY_CONTEXT": "Function over aesthetic...",
+	}
+}

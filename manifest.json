@@ -1,0 +1,10 @@
+{
+  "name": "VladdysNames",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Changes several of the names of enemies, items, locations, etc. to what they maybe, probably should be.",
+  "dependencies": [
+    "tristanmcpherson-R2API-4.0.11",
+    "bbepis-BepInExPack-5.4.1900"
+  ]
+}
