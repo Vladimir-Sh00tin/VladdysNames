@@ -254,7 +254,7 @@
 	"ITEM_TREASURECACHE_DESC": "A <style=cIsUtility>hidden cache</style> containing an item (<style=cIsHealing>80%</style>/<style=cIsHealth>20%</style>) will appear in a random location <style=cIsUtility>on each stage</style>. Opening the cache <style=cIsUtility>consumes</style> this item.",
 	"ITEM_TREASURECACHE_LORE" : "Order: Key\r\nTracking Number: 12******\r\nEstimated Delivery: 01\/21\/2056\r\nShipping Method: Standard\r\nShipping Address: |||||||, Druid Hills, Earth\r\nShipping Details:\r\n\r\nI don't trust UESC. Not one bit. Their Security Chests? Full of overrides and backdoors- I've got a cousin working in their factory, and they've got all kinds of weird things going on in those chests. I've seen so many of them in auctions - for the lost and unclaimed ones - and you just pay money, and it springs open on the spot. Are you kidding me?\r\n\r\nAnyways, I'm sending you exactly what I said I would - but it's too important to leave the security up to the UESC. So I'm sending the key to you - and the lockbox to Margaret. Like a two-factor authentication. Let me know when you get this.\r\n",
 
-	"ITEM_BOSSDAMAGEBONUS_NAME": "Armor-Piercing Rounds",
+	"ITEM_BOSSDAMAGEBONUS_NAME": "Bullets from the Bullet Farm",
 	"ITEM_BOSSDAMAGEBONUS_PICKUP": "Deal extra damage to bosses.",
 	"ITEM_BOSSDAMAGEBONUS_DESC": "Deal an additional <style=cIsDamage>20%</style> damage <style=cStack>(+20% per stack)</style> to bosses.",
 	"ITEM_BOSSDAMAGEBONUS_LORE": "Order: Armor-Piercing Rounds, 50mm\r\nTracking Number: 15***********\r\nEstimated Delivery: 3\/07\/2056\r\nShipping Method:  Standard\r\nShipping Address: Fort Margaret, Jonesworth System\r\nShipping Details: \r\n\r\nAlright, just to clarify, these rounds aren\u2019t faulty. Heck, I\u2019d say they\u2019re better than the standard, but... that\u2019s kind of the problem. I don\u2019t know if it was a new shipment of materials, or a problem with the assembly line, but these rounds are supposed to pierce armor. Not pierce through the armor, five feet of reinforced concrete, a few warehouses, and an armored truck. \r\n\r\nCould you guys look into this so we don\u2019t like, violate any Geneva Conventions or anything?\r\n",
@@ -624,7 +624,7 @@
 	"ITEM_REGENERATINGSCRAPCONSUMED_DESC": "At the start of each stage, it transforms into Regenerating Scrap.",
 
 	"ITEM_CRITGLASSESVOID_NAME": "Deletus Glasses",
-	"ITEM_CRITGLASSESVOID_PICKUP": "Gain a 0.5% chance to instantly kill a non-boss enemy. <style=cIsVoid>Corrupts all Lens-Maker's Glasses</style>.",
+	"ITEM_CRITGLASSESVOID_PICKUP": "Gain a 0.5% chance to instantly kill a non-boss enemy. <style=cIsVoid>Corrupts all Crit Glasses</style>.",
 	"ITEM_CRITGLASSESVOID_DESC": "Your attacks have a <style=cIsDamage>0.5%</style> <style=cStack>(+0.5% per stack)</style> chance to <style=cIsDamage>instantly kill</style> a <style=cIsDamage>non-Boss enemy</style>. <style=cIsVoid>Corrupts all Lens-Maker's Glasses</style>.",
 	"ITEM_CRITGLASSESVOID_LORE": "\"What does it mean to see?\n\nTo a beast, it means to identify potential food and mates. To propagate, to survive. Sight is nothing more than a means to an end, is it not?\n\nTo someone like me... To those who know true purpose... To see is to LIVE. To see is to spot that one little crack in the enemy's armor, to spot that smallest moment of hesitation when they rear back to strike.\n\nTo see the way flesh folds once the skull gives in to your weapon.\n\nYes, it's the little things, but seeing those things... REALLY seeing them. Ah, it fulfills you. I do hope you understand... And if not, you will eventually, if you've read this note.\"\n\n- Lost Journal, recovered from Petrichor V",
 
@@ -649,7 +649,7 @@
 	"ITEM_BEARVOID_LORE" : "\"You can't shoot me.\n\nYou can't taze me.\n\nYou can't gas me.\n\nYou can't even knock me down.\n\nNot without something very precious going squish.\"",
 	
 	"ITEM_CLOVERVOID_NAME": "Nasty Lettuce",
-	"ITEM_CLOVERVOID_PICKUP": "Upgrades your items at the start of each stage. <style=cIsVoid>Corrupts all 57 Leaf Clovers</style>.",
+	"ITEM_CLOVERVOID_PICKUP": "Upgrades your items at the start of each stage. <style=cIsVoid>Corrupts all Lettuce</style>.",
 	"ITEM_CLOVERVOID_DESC": "<style=cIsUtility>Upgrades 3</style> <style=cStack>(+3 per stack)</style> random items to items of the next <style=cIsUtility>higher rarity</style> at the <style=cIsUtility>start of each stage</style>. <style=cIsVoid>Corrupts all 57 Leaf Clovers</style>.",
 	"ITEM_CLOVERVOID_LORE": "\"Luck? Who needs luck, in a place like this.\n\nTo survive here, you'd need more than just luck. You need intuition. Instinct. The right tools. Power.\n\nI know you're scared. And I am too. But if there's anything this hell hole has taught me...\n\nWe make our own luck.\"\n\n- Signal Echoes, UES Contact Light",
 
@@ -678,8 +678,8 @@
 	"ITEM_EQUIPMENTMAGAZINEVOID_DESC": "Add <style=cIsUtility>+1</style> <style=cStack>(+1 per stack)</style> charge of your <style=cIsUtility>Special skill</style>. <style=cIsVoid>Corrupts all Fuel Cells.</style>.",
 	"ITEM_EQUIPMENTMAGAZINEVOID_LORE": "\"Recycling is an important thing. And I don't mean recycling a glass bottle to help the environment - though that's important too! No, by 'recycling,' I mean taking one thing, and using it for another. For example, my Ukelele. I love this thing. It has electric properties, and passes them on to my attacks - free chain lightning! But what if I were to 'recycle' it? I think the Uke would make a pretty good melee weapon. Imagine, bludgeoning a Lemurian and pumping it full of volts, in one easy step.\n\nDo you get what I'm saying? There's opportunities for recycling all over the place. You just need to open your mind to the possibilities, and see... And do a little recycling. It's good for the environment.\"\n\n- Lost Journal, recovered from Petrichor V",
 
-	"ITEM_EXTRALIFEVOID_NAME": "Pluripotent Larva",
-	"ITEM_EXTRALIFEVOID_PICKUP": "Get a <style=cIsVoid>corrupted</style> extra life. Consumed on use. <style=cIsVoid>Corrupts all Dio's Best Friends.</style>.",
+	"ITEM_EXTRALIFEVOID_NAME": "Nasty White Teddis",
+	"ITEM_EXTRALIFEVOID_PICKUP": "Get a <style=cIsVoid>corrupted</style> extra life. Consumed on use. <style=cIsVoid>Corrupts all White Teddis.</style>.",
 	"ITEM_EXTRALIFEVOID_DESC": "<style=cIsUtility>Upon death</style>, this item will be <style=cIsUtility>consumed</style> and you will <style=cIsHealing>return to life</style> with <style=cIsHealing>3 seconds of invulnerability</style>, and all of your items that can be <style=cIsUtility>corrupted</style> will be. <style=cIsVoid>Corrupts all Dio's Best Friends</style>.",
 	"ITEM_EXTRALIFEVOID_LORE": "\"Life finds a way. Even in the depths of creation, there's bound to be something crawling along the sand, just hoping to make it through the day.\n\nWhy don't you take a ride in their shoes, just for one day? You may come out of the experience with a brand new perspective.\"",
 	
