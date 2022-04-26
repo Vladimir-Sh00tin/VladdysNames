@@ -14,6 +14,15 @@ Maybe? Probably not. IDK. I threw this on here to make it easier for my friends 
 
 ## Changelog
 
+- 1.0.1
+
+  - Fixed a text formatting error for the A Moment, Fractured Obelisk.
+  - Updated descriptions of some Void items to refer to their modified, non-void counterparts properly.
+  - Updated name for Pluripotent Larva.
+  - Updated name for Armor-Piercing Rounds.
+  - Updated name for Halcyon Beacon.
+  - Updated name for Loader.
+  
 - 1.0.0
 
   - Mod Released
