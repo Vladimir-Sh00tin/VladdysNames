@@ -155,8 +155,8 @@
 	"SHRINE_CLEANSE_USE_MESSAGE_2P": "<style=cShrine>You have cleansed yourself of {1}.</color>",
 	"SHRINE_CLEANSE_USE_MESSAGE": "<style=cShrine>{0} has cleansed themself of {1}.</color>",
 
-	"GOLDTOTEM_NAME": "Halcyon Beacon",
-	"GOLDTOTEM_CONTEXT": "Rebuild Halcyon Beacon",
+	"GOLDTOTEM_NAME": "Golden Daddy's Cheeto",
+	"GOLDTOTEM_CONTEXT": "Add more cheddar powder",
 
 	"ARENA_ADD_MONSTER" : "<style=cWorldEvent>[WARNING] {1}s have been released from the Cell..!</style>",
 	"ARENA_ADD_ITEM" : "<style=cWorldEvent>[WARNING] {1} has been integrated into the Cell...!</style>",
